@@ -1,0 +1,6 @@
+== Assignment 07/14/2016 ==
+Create a page that...
+  - Loads some HTML from a separate file
+	- Uses functions to output date/time information in different places/timezones
+	  - Function should take a timezone and output the format string provided for that timezone
+	- Load an image based on the time of day

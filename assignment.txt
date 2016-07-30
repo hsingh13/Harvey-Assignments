@@ -1,0 +1,4 @@
+== Assignment 07/07/2016 ==
+- Build a PHP page with HTML that...
+  - Shows information on the user viewing your page
+	- Shows the current date and time in at least two different time zones

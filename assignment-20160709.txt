@@ -1,0 +1,12 @@
+== Assignment 07/09/2016 ==
+Build a page that does the following things:
+
+1) Uses a loop to output a range of numbers in word format (ie 'ten' instead of '10')
+2) Uses a different loop to go through an associative array showing the indices/values
+
+EXTRA CREDIT - Additionally use nested loops to output several rows of numbers with a
+	variable number of rows and columns set inside the script. Ex:
+		1 2 3 4
+		5 6 7 8
+
+Ask questions and use php.net liberally.  No fancy formatting required, simply enough to display things in a readable way (and as indicated by the extra credit if attempted).

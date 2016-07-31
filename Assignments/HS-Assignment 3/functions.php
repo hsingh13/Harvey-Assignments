@@ -1,13 +1,15 @@
 <?php
  
- 
+/*  
 $Los_Angeles=new DateTime('now', new DateTimeZone('America/Los_Angeles'));
-
-
 $New_York=new DateTime('now', new DateTimeZone('America/New_York'));
+$Dubai=new DateTime('now', new DateTimeZone('Asia/Dubai'));
+$Calcutta=new DateTime('now', new DateTimeZone('Asia/Calcutta'));
+$Amsterdam=new DateTime('now', new DateTimeZone('Europe/Amsterdam'));
+$Vancouver=new DateTime('now', new DateTimeZone('America/Vancouver'));
   
-$Sunrise="<img src='/Images/sunrise.png' />";
-$Sunset="<img src='/Images/sunset.jpg' />";
+// $Sunrise="<img src='/Images/sunrise.png' />";
+// $Sunset="<img src='/Images/sunset.jpg' />";
 
 
 if (date('a')=='am')
@@ -20,7 +22,7 @@ If (date('a')=='pm')
      echo "Sunset in Los Angles .$Sunset <br />";
      echo "Sunset in New York   .$Sunset <br />";
 }
-
+*/
 
 
 
